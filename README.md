@@ -32,8 +32,8 @@ Just follow the steps below.
 1. **Download or clone the repository**
 
 ```bash
-git clone <your-repository-url>
-cd eco-hospital-simulator
+git clone https://github.com/medmahmoudhdaya/defi.git
+cd defi
 ```
 
 2. **Install backend packages**
